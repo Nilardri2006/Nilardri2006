@@ -88,3 +88,7 @@
 <!-- ====================== GITHUB STATS ====================== -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilardri2006&theme=dark" alt="GitHub Streak" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nilardri2006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
